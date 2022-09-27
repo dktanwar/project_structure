@@ -1,4 +1,4 @@
-# Project direcory for analysis of bs-seq data
+# Project direcory for analysis of PBAT data
 
 - `data`: raw data, reference-genome
 
